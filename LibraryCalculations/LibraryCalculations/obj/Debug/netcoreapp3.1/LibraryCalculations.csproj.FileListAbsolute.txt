@@ -1,0 +1,10 @@
+E:\GB\TestTaskForMind\LibraryCalculations\LibraryCalculations\bin\Debug\netcoreapp3.1\LibraryCalculations.deps.json
+E:\GB\TestTaskForMind\LibraryCalculations\LibraryCalculations\bin\Debug\netcoreapp3.1\LibraryCalculations.dll
+E:\GB\TestTaskForMind\LibraryCalculations\LibraryCalculations\bin\Debug\netcoreapp3.1\LibraryCalculations.pdb
+E:\GB\TestTaskForMind\LibraryCalculations\LibraryCalculations\obj\Debug\netcoreapp3.1\LibraryCalculations.csproj.AssemblyReference.cache
+E:\GB\TestTaskForMind\LibraryCalculations\LibraryCalculations\obj\Debug\netcoreapp3.1\LibraryCalculations.GeneratedMSBuildEditorConfig.editorconfig
+E:\GB\TestTaskForMind\LibraryCalculations\LibraryCalculations\obj\Debug\netcoreapp3.1\LibraryCalculations.AssemblyInfoInputs.cache
+E:\GB\TestTaskForMind\LibraryCalculations\LibraryCalculations\obj\Debug\netcoreapp3.1\LibraryCalculations.AssemblyInfo.cs
+E:\GB\TestTaskForMind\LibraryCalculations\LibraryCalculations\obj\Debug\netcoreapp3.1\LibraryCalculations.csproj.CoreCompileInputs.cache
+E:\GB\TestTaskForMind\LibraryCalculations\LibraryCalculations\obj\Debug\netcoreapp3.1\LibraryCalculations.dll
+E:\GB\TestTaskForMind\LibraryCalculations\LibraryCalculations\obj\Debug\netcoreapp3.1\LibraryCalculations.pdb

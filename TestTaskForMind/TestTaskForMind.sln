@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibraryCalculations", "..\LibraryCalculations\LibraryCalculations\LibraryCalculations.csproj", "{19654D9C-F683-42E0-A804-29C3E20CC084}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19654D9C-F683-42E0-A804-29C3E20CC084}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19654D9C-F683-42E0-A804-29C3E20CC084}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19654D9C-F683-42E0-A804-29C3E20CC084}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19654D9C-F683-42E0-A804-29C3E20CC084}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D476993-EDA2-443B-9138-714356026711}
+	EndGlobalSection
+EndGlobal
