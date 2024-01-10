@@ -4,6 +4,7 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <RepositoryUrl>https://github.com/sanek1/TestTaskForMind</RepositoryUrl>
+    <Version></Version>
   </PropertyGroup>
 
 </Project>

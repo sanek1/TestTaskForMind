@@ -1,0 +1,17 @@
+E:\GB\TestTaskForMind\TestTaskForMind\ConsoleAppTest\bin\Debug\netcoreapp3.1\ConsoleAppTest.exe
+E:\GB\TestTaskForMind\TestTaskForMind\ConsoleAppTest\bin\Debug\netcoreapp3.1\ConsoleAppTest.deps.json
+E:\GB\TestTaskForMind\TestTaskForMind\ConsoleAppTest\bin\Debug\netcoreapp3.1\ConsoleAppTest.runtimeconfig.json
+E:\GB\TestTaskForMind\TestTaskForMind\ConsoleAppTest\bin\Debug\netcoreapp3.1\ConsoleAppTest.runtimeconfig.dev.json
+E:\GB\TestTaskForMind\TestTaskForMind\ConsoleAppTest\bin\Debug\netcoreapp3.1\ConsoleAppTest.dll
+E:\GB\TestTaskForMind\TestTaskForMind\ConsoleAppTest\bin\Debug\netcoreapp3.1\ConsoleAppTest.pdb
+E:\GB\TestTaskForMind\TestTaskForMind\ConsoleAppTest\bin\Debug\netcoreapp3.1\LibraryCalculations.dll
+E:\GB\TestTaskForMind\TestTaskForMind\ConsoleAppTest\obj\Debug\netcoreapp3.1\ConsoleAppTest.csproj.AssemblyReference.cache
+E:\GB\TestTaskForMind\TestTaskForMind\ConsoleAppTest\obj\Debug\netcoreapp3.1\ConsoleAppTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\GB\TestTaskForMind\TestTaskForMind\ConsoleAppTest\obj\Debug\netcoreapp3.1\ConsoleAppTest.AssemblyInfoInputs.cache
+E:\GB\TestTaskForMind\TestTaskForMind\ConsoleAppTest\obj\Debug\netcoreapp3.1\ConsoleAppTest.AssemblyInfo.cs
+E:\GB\TestTaskForMind\TestTaskForMind\ConsoleAppTest\obj\Debug\netcoreapp3.1\ConsoleAppTest.csproj.CoreCompileInputs.cache
+E:\GB\TestTaskForMind\TestTaskForMind\ConsoleAppTest\obj\Debug\netcoreapp3.1\ConsoleAppTest.csproj.CopyComplete
+E:\GB\TestTaskForMind\TestTaskForMind\ConsoleAppTest\obj\Debug\netcoreapp3.1\ConsoleAppTest.dll
+E:\GB\TestTaskForMind\TestTaskForMind\ConsoleAppTest\obj\Debug\netcoreapp3.1\ConsoleAppTest.pdb
+E:\GB\TestTaskForMind\TestTaskForMind\ConsoleAppTest\obj\Debug\netcoreapp3.1\ConsoleAppTest.genruntimeconfig.cache
+E:\GB\TestTaskForMind\TestTaskForMind\ConsoleAppTest\bin\Debug\netcoreapp3.1\LibraryCalculations.pdb
